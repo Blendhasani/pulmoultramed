@@ -1,0 +1,788 @@
+﻿++Solution 'pulmoultramed' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:pulmoultramed.sln
+++pulmoultramed
+i:{00000000-0000-0000-0000-000000000000}:pulmoultramed
+++Connected Services 
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:>624
+++SQL Server Database (ConnectionStrings:DefaultConnectionString)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:>642
+++Dependencies
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:>623
+++Analyzers
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:analyzers
+++COM
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:com
+++Frameworks
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:frameworks
+++Packages
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:packages
+++Imports
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:>241
+++Sdk.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Properties
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\properties\
+++launchSettings.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\properties\launchsettings.json
+++wwwroot
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\
+++css
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\css\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\
+++site.css
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\css\site.css
+++images
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\
+++js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\js\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\unix\lib\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win\lib\
+++favicon.ico
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\favicon.ico
+++bin
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\
+++Controllers
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\controllers\
+++HomeController.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\controllers\homecontroller.cs
+++LogoController.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\controllers\logocontroller.cs
+++SherbimeController.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\controllers\sherbimecontroller.cs
+++Data
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\
+++Base
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\base\
+++EntityBaseRepository.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\base\entitybaserepository.cs
+++IEntityBase.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\base\ientitybase.cs
+++IEntityBaseRepository.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\base\ientitybaserepository.cs
+++Services
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\services\
+++ISherbimeService.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\services\isherbimeservice.cs
+++SherbimeService.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\services\sherbimeservice.cs
+++ViewComponents
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\viewcomponents\
+++NewSherbimeVM.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\viewcomponents\newsherbimevm.cs
+++AppDbContext.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\appdbcontext.cs
+++AppDbInitializer.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\appdbinitializer.cs
+++Migrations
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\
+++Models
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\models\
+++ErrorViewModel.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\models\errorviewmodel.cs
+++Logo.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\models\logo.cs
+++Sherbimet.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\models\sherbimet.cs
+++obj
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\
+++Views
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\
+++Home
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\home\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\home\
+++Index.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\home\index.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\sherbime\index.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\raste\index.cshtml
+++Privacy.cshtml
+++Shared
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\shared\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\shared\
+++_CreateItem.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\shared\_createitem.cshtml
+++_Layout.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\shared\error.cshtml
+++Sherbime
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\sherbime\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\sherbime\
+++Create.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\sherbime\create.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\raste\create.cshtml
+++Delete.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\sherbime\delete.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\raste\delete.cshtml
+++Details.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\sherbime\details.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\raste\details.cshtml
+++Edit.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\sherbime\edit.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\raste\edit.cshtml
+++_ViewImports.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\_viewstart.cshtml
+++Foto.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\foto.cshtml
+++appsettings.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\appsettings.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\appsettings.json
+++appsettings.Development.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\appsettings.development.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\appsettings.development.json
+++logo.png
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\logo.png
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\logo.png
+++Program.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\program.cs
+++Startup.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\startup.cs
+++SQL Server Database dependency with connectionId 'ConnectionStrings:DefaultConnectionString' is detected
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:>643
+++Microsoft.AspNetCore.Analyzers
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.7\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++{215d64d2-031c-33c7-96e3-61794cd1ee61}
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\{215d64d2-031c-33c7-96e3-61794cd1ee61}
+++Microsoft.AspNetCore.App
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (5.0.7)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:>639
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.7)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:>640
+++Microsoft.EntityFrameworkCore.Tools (5.0.7)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:>641
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++ekg.png
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\ekg.png
+++fotojaEgjere.jpg
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\fotojaegjere.jpg
+++inhalimi.png
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\inhalimi.png
+++injeksione.png
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\injeksione.png
+++keshilla.jpg
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\keshilla.jpg
+++lokacioni.png
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\lokacioni.png
+++ordinanca.jpg
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\ordinanca.jpg
+++spirometria.png
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\spirometria.png
+++vizita.png
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\vizita.png
+++site.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\js\site.js
+++bootstrap
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\
+++jquery
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery\
+++jquery-validation
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation-unobtrusive\
+++Debug
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\
+++20221016204851_Initial.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\20221016204851_initial.cs
+++20221016205218_Logo.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\20221016205218_logo.cs
+++20221016210551_LogoPare.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\20221016210551_logopare.cs
+++20221017100413_TabelaSherbimet.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\20221017100413_tabelasherbimet.cs
+++AppDbContextModelSnapshot.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\appdbcontextmodelsnapshot.cs
+++project.assets.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\project.assets.json
+++project.nuget.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\project.nuget.cache
+++pulmoultramed.csproj.nuget.dgspec.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\pulmoultramed.csproj.nuget.dgspec.json
+++pulmoultramed.csproj.nuget.g.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\pulmoultramed.csproj.nuget.g.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\pulmoultramed.csproj.nuget.g.props
+++pulmoultramed.csproj.nuget.g.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\pulmoultramed.csproj.nuget.g.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\pulmoultramed.csproj.nuget.g.targets
+++Microsoft.Common.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++dist
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery\dist\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery\license.txt
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++net5.0
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\
+++20221016204851_Initial.Designer.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\20221016204851_initial.designer.cs
+++20221016205218_Logo.Designer.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\20221016205218_logo.designer.cs
+++20221016210551_LogoPare.Designer.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\20221016210551_logopare.designer.cs
+++20221017100413_TabelaSherbimet.Designer.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\20221017100413_tabelasherbimet.designer.cs
+++Microsoft.NuGet.ImportBefore.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Compilation.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.compilation.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.Component.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.component.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.5_0.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.5_0.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.5_0.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.5_0.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++jquery.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++runtimes
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\
+++Humanizer.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\humanizer.dll
+++Microsoft.Data.SqlClient.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.data.sqlclient.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Identity.Client.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\microsoft.identitymodel.tokens.dll
+++Newtonsoft.Json.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\newtonsoft.json.dll
+++pulmoultramed.deps.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\pulmoultramed.deps.json
+++pulmoultramed.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\pulmoultramed.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\ref\pulmoultramed.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\refint\pulmoultramed.dll
+++pulmoultramed.exe
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\pulmoultramed.exe
+++pulmoultramed.pdb
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\pulmoultramed.pdb
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.pdb
+++pulmoultramed.runtimeconfig.dev.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\pulmoultramed.runtimeconfig.dev.json
+++pulmoultramed.runtimeconfig.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\pulmoultramed.runtimeconfig.json
+++pulmoultramed.Views.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\pulmoultramed.views.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.views.dll
+++pulmoultramed.Views.pdb
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\pulmoultramed.views.pdb
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.views.pdb
+++System.Configuration.ConfigurationManager.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\system.configuration.configurationmanager.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\system.diagnostics.diagnosticsource.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\system.runtime.caching.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\system.security.cryptography.protecteddata.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++Razor
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\
+++ref
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\ref\
+++refint
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\refint\
+++staticwebassets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\staticwebassets\
+++.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\.netcoreapp,version=v5.0.assemblyattributes.cs
+++apphost.exe
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\apphost.exe
+++project.razor.json
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\project.razor.json
+++pulmoultramed.AssemblyInfo.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.assemblyinfo.cs
+++pulmoultramed.AssemblyInfoInputs.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.assemblyinfoinputs.cache
+++pulmoultramed.assets.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.assets.cache
+++pulmoultramed.csproj.AssemblyReference.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.csproj.assemblyreference.cache
+++pulmoultramed.csproj.BuildWithSkipAnalyzers
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.csproj.buildwithskipanalyzers
+++pulmoultramed.csproj.CopyComplete
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.csproj.copycomplete
+++pulmoultramed.csproj.CoreCompileInputs.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.csproj.corecompileinputs.cache
+++pulmoultramed.csproj.FileListAbsolute.txt
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.csproj.filelistabsolute.txt
+++pulmoultramed.GeneratedMSBuildEditorConfig.editorconfig
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.generatedmsbuildeditorconfig.editorconfig
+++pulmoultramed.genruntimeconfig.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.genruntimeconfig.cache
+++pulmoultramed.MvcApplicationPartsAssemblyInfo.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.mvcapplicationpartsassemblyinfo.cache
+++pulmoultramed.RazorAssemblyInfo.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.razorassemblyinfo.cache
+++pulmoultramed.RazorAssemblyInfo.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.razorassemblyinfo.cs
+++pulmoultramed.RazorCoreGenerate.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.razorcoregenerate.cache
+++pulmoultramed.RazorTargetAssemblyInfo.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.razortargetassemblyinfo.cache
+++pulmoultramed.RazorTargetAssemblyInfo.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.razortargetassemblyinfo.cs
+++pulmoultramed.TagHelpers.input.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.taghelpers.input.cache
+++pulmoultramed.TagHelpers.output.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\pulmoultramed.taghelpers.output.cache
+++Microsoft.EntityFrameworkCore.Design.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\.nuget\packages\microsoft.entityframeworkcore.design\5.0.7\build\netcoreapp3.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++bootstrap.css
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++unix
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\unix\
+++win
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win\
+++win-arm
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-arm\
+++win-arm64
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-arm64\
+++win-x64
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-x64\
+++win-x86
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-x86\
+++pulmoultramed.StaticWebAssets.Manifest.cache
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\staticwebassets\pulmoultramed.staticwebassets.manifest.cache
+++Microsoft.NET.ILLink.Tasks.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++bootstrap.css.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\jquery\dist\jquery.min.map
+++native
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-arm\native\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-arm64\native\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-x64\native\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-x86\native\
+++_ViewImports.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\_viewimports.cshtml.g.cs
+++_ViewStart.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\_viewstart.cshtml.g.cs
+++Foto.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\foto.cshtml.g.cs
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++pulmoultramed.csproj.user
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\pulmoultramed.csproj.user
+++Microsoft.NET.props
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Xamarin.Common.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\xamarin.common.targets
+++bootstrap.min.css.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++netcoreapp3.1
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Data.SqlClient.SNI.pdb
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.pdb
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.pdb
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.pdb
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.pdb
+++Index.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\home\index.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\raste\index.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\sherbime\index.cshtml.g.cs
+++Privacy.cshtml.g.cs
+++_CreateItem.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\shared\_createitem.cshtml.g.cs
+++_Layout.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\shared\_layout.cshtml.g.cs
+++_ValidationScriptsPartial.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\shared\_validationscriptspartial.cshtml.g.cs
+++Error.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\shared\error.cshtml.g.cs
+++Create.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\raste\create.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\sherbime\create.cshtml.g.cs
+++Delete.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\raste\delete.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\sherbime\delete.cshtml.g.cs
+++Details.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\sherbime\details.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\raste\details.cshtml.g.cs
+++Edit.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\raste\edit.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\sherbime\edit.cshtml.g.cs
+++Microsoft.Docker.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++bootstrap.bundle.min.js.map
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++Rastet.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\models\rastet.cs
+++IRasteService.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\services\irasteservice.cs
+++NewRasteVM.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\viewcomponents\newrastevm.cs
+++20221021155709_RastetDb.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\20221021155709_rastetdb.cs
+++20221021155709_RastetDb.Designer.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\migrations\20221021155709_rastetdb.designer.cs
+++RasteService.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\data\services\rasteservice.cs
+++RasteController.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\controllers\rastecontroller.cs
+++NewFolder
+++Raste
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\raste\
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\raste\
+++dr.jpg
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\dr.jpg
+++RrethNesh.cshtml
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\views\home\rrethnesh.cshtml
+++RrethNesh.cshtml.g.cs
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\obj\debug\net5.0\razor\views\home\rrethnesh.cshtml.g.cs
+++chest.jpeg.crdownload
+++chest1.jpg
+i:{665ad0c5-6eb7-493f-9b7c-0638a77c80d3}:c:\users\blend\source\repos\pulmoultramed\pulmoultramed\wwwroot\images\chest1.jpg
