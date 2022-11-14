@@ -58,39 +58,6 @@ namespace pulmoultramed.Data
                     await roleManager.CreateAsync(new IdentityRole(UserRoles.User));
 
                 //Users
-                var userManager = serviceScope.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
-                string adminUserEmail = "hasanifahri@pulmoultramed.com";
-
-                var adminUser = await userManager.FindByEmailAsync(adminUserEmail);
-                if (adminUser == null)
-                {
-                    var newAdminUser = new ApplicationUser()
-                    {
-                        FullName = "Fahri Hasani",
-                        UserName = "Fahri",
-                        Email = adminUserEmail,
-                        EmailConfirmed = true
-                    };
-                    await userManager.CreateAsync(newAdminUser, "Fahri@1982!");
-                    await userManager.AddToRoleAsync(newAdminUser, UserRoles.Admin);
-                }
-
-
-                string appUserEmail = "user@pulmoultramed.com";
-
-                var appUser = await userManager.FindByEmailAsync(appUserEmail);
-                if (appUser == null)
-                {
-                    var newAppUser = new ApplicationUser()
-                    {
-                        FullName = "Application User",
-                        UserName = "app-user",
-                        Email = appUserEmail,
-                        EmailConfirmed = true
-                    };
-                    await userManager.CreateAsync(newAppUser, "Pulmoultramed@1234?");
-                    await userManager.AddToRoleAsync(newAppUser, UserRoles.User);
-                }
             }
         }
 
