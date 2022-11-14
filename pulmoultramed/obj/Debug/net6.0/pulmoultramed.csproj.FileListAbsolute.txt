@@ -1,5 +1,4 @@
 C:\Users\Blend\source\repos\pulmoultramed\pulmoultramed\obj\Debug\net6.0\pulmoultramed.csproj.AssemblyReference.cache
-C:\Users\Blend\source\repos\pulmoultramed\pulmoultramed\obj\Debug\net6.0\pulmoultramed.csproj.ResolveComReference.cache
 C:\Users\Blend\source\repos\pulmoultramed\pulmoultramed\obj\Debug\net6.0\pulmoultramed.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Blend\source\repos\pulmoultramed\pulmoultramed\obj\Debug\net6.0\pulmoultramed.AssemblyInfoInputs.cache
 C:\Users\Blend\source\repos\pulmoultramed\pulmoultramed\obj\Debug\net6.0\pulmoultramed.AssemblyInfo.cs
@@ -64,3 +63,4 @@ C:\Users\Blend\source\repos\pulmoultramed\pulmoultramed\obj\Debug\net6.0\refint\
 C:\Users\Blend\source\repos\pulmoultramed\pulmoultramed\obj\Debug\net6.0\pulmoultramed.pdb
 C:\Users\Blend\source\repos\pulmoultramed\pulmoultramed\obj\Debug\net6.0\pulmoultramed.genruntimeconfig.cache
 C:\Users\Blend\source\repos\pulmoultramed\pulmoultramed\obj\Debug\net6.0\ref\pulmoultramed.dll
+C:\Users\Blend\source\repos\pulmoultramed\pulmoultramed\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll

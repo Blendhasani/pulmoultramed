@@ -3,8 +3,9 @@
 	ViewData["Title"] = "Sherbimet";
 }
 
+	<p style="font-size:clamp(30px,3vw,40px); margin-top:100px; margin-left:5%; color:#2b2764;"><b>Shërbimet</b></p>
 
-<div class="row" style="margin-right:5%; margin-left:5%;margin-top:70px; ">
+<div class="row" style="margin-right:5%; margin-left:5%;margin-top:20px; ">
 
 	@foreach(var item in Model)
 	{
@@ -14,8 +15,9 @@
 					<div class="col-md-12">
 						<div class="card-header text-white   "style="background-color:#2EA3F2;">
 							<p class="card-text">
-								<h5 class="card-title">
+								<h5 class="card-title" >
 									@item.Emri
+								
 									@if(User.Identity.IsAuthenticated && User.IsInRole("Admin")){
 	
 									<a class="text-white float-right" style="padding:5px;" asp-action="Edit" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i></a>
@@ -34,9 +36,19 @@
 								</a>
 				
 					</div>
-
-
 					
+					 <div class="col-md-12">
+                        <div class="card-footer text-center">
+                            <p class="card-text">
+                          
+                                    <a class="btn btn-outline-primary " asp-action="Details" asp-route-id="@item.Id">
+                                    <i class="bi bi-eye-fill"></i> Detajet
+                                </a>
+                               
+                                
+                            </p>
+                        </div>
+                    </div>
 				</div>
 			</div>
 		</div>

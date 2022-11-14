@@ -67,7 +67,7 @@ namespace pulmoultramed.Data
                     var newAdminUser = new ApplicationUser()
                     {
                         FullName = "Fahri Hasani",
-                        UserName = "admin-user",
+                        UserName = "Fahri",
                         Email = adminUserEmail,
                         EmailConfirmed = true
                     };

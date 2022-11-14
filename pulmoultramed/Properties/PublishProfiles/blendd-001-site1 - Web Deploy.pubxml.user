@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuEYVqVoNrkGgsLfl3DBb3wAAAAACAAAAAAAQZgAAAAEAACAAAACl9vHx5k6EGdY6UlGB72zKk04G03wk1vlV6BtRCCiN0AAAAAAOgAAAAAIAACAAAABHWlQf+R9IUlYH1y0La0UV+aWFdpZX2B9R29gXEzg62CAAAABhULoixAF5aPs0Ou+HJMQyIASPiC6WDwsTK97TR7MEPUAAAAB8t+uJrH241e3gBMBEtyKLEen6utG71BhbokgG6NA9udMh1bSp0XBfKFQJRD2Y/u35B4hKZFyQlNk5nhsTyu4u</EncryptedPassword>
+    <History>True|2022-11-03T13:53:35.1113688Z;True|2022-11-03T08:35:21.6331599+01:00;False|2022-11-03T08:34:06.5532859+01:00;True|2022-11-02T21:34:20.7247449+01:00;True|2022-11-02T14:55:00.0250517+01:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnectionString">
+      <Value>Data Source=SQL5107.site4now.net%3bInitial Catalog=db_a8f15b_pulmoultrameddb%3bUser Id=db_a8f15b_pulmoultrameddb_admin%3bPassword=Blendsmarter1</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

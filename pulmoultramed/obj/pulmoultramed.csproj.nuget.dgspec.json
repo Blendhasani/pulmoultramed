@@ -58,9 +58,9 @@
               "target": "Package",
               "version": "[6.0.10, )"
             },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+            "Microsoft.Office.Interop.Excel": {
               "target": "Package",
-              "version": "[6.0.7, )"
+              "version": "[15.0.4795.1001, )"
             }
           },
           "imports": [

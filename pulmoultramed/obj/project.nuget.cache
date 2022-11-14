@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jhiiiXZUOL1msVCANOGBOah1vqAgQ57gFlMrAweEBY16zWuyuYHgic+PxGmdBt/jrXJDhr6yWySIjJ8icyyAVg==",
+  "dgSpecHash": "6m8pRY48TG+1CoZgBymPHUJCPoi49wzhpGnosSsPluiqYBpiN63K3BrukhDAVEn1bVPAvgHKO/JvM3rvB/p2Qg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Blend\\source\\repos\\pulmoultramed\\pulmoultramed\\pulmoultramed.csproj",
   "expectedPackageFiles": [
@@ -36,10 +36,9 @@
     "C:\\Users\\Blend\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.8.0\\microsoft.identitymodel.protocols.openidconnect.6.8.0.nupkg.sha512",
     "C:\\Users\\Blend\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\Blend\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Blend\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
     "C:\\Users\\Blend\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Blend\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\Blend\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
-    "C:\\Users\\Blend\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.7\\npgsql.entityframeworkcore.postgresql.6.0.7.nupkg.sha512",
     "C:\\Users\\Blend\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Blend\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\Blend\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
